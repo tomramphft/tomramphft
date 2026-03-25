@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <h1 align="center">Salut, moi c'est Tom Ramphft 👋</h1>
 
