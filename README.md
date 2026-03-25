@@ -25,7 +25,7 @@
 Étudiant ingénieur en Génie Électrique et Maîtrise de l'Énergie, passionné par les
 **infrastructures technologiques**, la **transition énergétique** et la **gestion de projet**.
 Fort d'expériences terrain en alternance et de projets techniques concrets, je cherche
-à appliquer mes compétences dans un environnement international stimulant.
+à appliquer mes compétences dans un environnement international stimulant afin de valider mon stage de fin d'études.
 
 ---
 
@@ -34,7 +34,7 @@ Fort d'expériences terrain en alternance et de projets techniques concrets, je 
 ### 🏫 ESME Sudria — Ingénieur Transition Énergétique *(Sept. 2024 – 2027)*
 *Alternance · Spécialité énergie*
 
-- ⚡ Conversion de l'Énergie · Installations HTA · Transfert Thermique dans le Bâtiment
+- ⚡ Conversion & Gestion de l'Énergie · Installations HTA · Transfert Thermique dans le Bâtiment
 - 🌊 Mécanique des Fluides · GTB & Régulation
 - 🔧 Langage C pour microcontrôleurs PIC · Assembleur
 - 📊 Management de Projet · Gestion RH d'équipe · Réglementation des Marchés
@@ -50,7 +50,7 @@ Fort d'expériences terrain en alternance et de projets techniques concrets, je 
 
 ### 🎓 Bac Scientifique *(2021)*
 
----
+
 
 ## 💼 Expériences Professionnelles
 
